@@ -1,4 +1,4 @@
-=== Miappi: Aggregated Social Media Feed ===
+=== Miappi: Social Media Wall ===
 Contributors: saf33r, Toby_Britton
 Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, 
 Requires at least: 3.0
@@ -23,8 +23,8 @@ Don't cannibalize your own traffic by sending visitors off to the social network
 
 With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your website!) so your audience engages with more of your social content without having to leave your site to visit the social networks.
 
-IMPORTANT
-Before downloading this plugin visit Miappi and sign-up to one of our three plans (Standard, Professional or Enterprise). Pro and Enterprise are great but Standard (FREE) is pretty special too and should cover most small business requirements.
+**IMPORTANT**
+**Before downloading this plugin visit Miappi and sign-up to one of our three plans (Standard, Professional or Enterprise). Pro and Enterprise are great but Standard (FREE) is pretty special too and should cover most small business requirements.**
 
 == Installation ==
 
