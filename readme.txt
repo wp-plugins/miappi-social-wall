@@ -3,7 +3,7 @@ Contributors: saf33r, Toby_Britton
 Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, 
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2
 
 Show all your Social feeds and hashtag content in one widget.
@@ -24,11 +24,11 @@ Don't cannibalize your own traffic by sending visitors off to the social network
 With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your website!) so your audience engages with more of your social content without having to leave your site to visit the social networks.
 
 **IMPORTANT**
-**Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register) and sign-up to one of our three plans (Standard, Professional or Enterprise). Pro and Enterprise are great but Standard (FREE) is pretty special too and should cover most small business requirements.**
+**Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=business) and sign-up to one of our three plans (Standard, Professional or Enterprise). Pro and Enterprise are great but Standard (FREE) is pretty special too and should cover most small business requirements.**
 
 == Installation ==
 
-You'll need to signup with [Miappi](http://dashboard.miappi.com/register) before continuing, it's fast, free and easy. Once you're signed up you can download the plugin.
+You'll need to signup with [Miappi](http://dashboard.miappi.com/register?source=business) before continuing, it's fast, free and easy. Once you're signed up you can download the plugin.
 
 = Install & Activate =
 
@@ -71,7 +71,7 @@ Show feeds from Facebook, Twitter, Instagram, YouTube, Tumblr and SoundCloud. Yo
 
 = How do I start using Miappi? =
 
-You'll need to sign up at [Miappi](http://dashboard.miappi.com/register) before using this plugin.
+You'll need to sign up at [Miappi](http://dashboard.miappi.com/register?source=business) before using this plugin.
 
 = Help, I'm having a problem! =
 
@@ -88,6 +88,9 @@ Please send all questions to support{at}miappi.com
 
 = 0.1 =
 * Initial version with a Miappi shortcode, widget and template function.
+
+= 0.2 =
+* Show help message after activating plugin
 
 == Upgrade Notice ==
 
