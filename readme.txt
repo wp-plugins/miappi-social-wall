@@ -2,7 +2,7 @@
 Contributors: saf33r, Toby_Britton
 Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, 
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 0.2
 License: GPLv2
 
