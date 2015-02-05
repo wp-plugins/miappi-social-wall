@@ -10,23 +10,22 @@ Show all your Social feeds and hashtag content in one widget.
 
 == Description ==
 
-**Miappi is a social media enhancement platform. Use Miappi to unite all your social media accounts into an awesome ‘social wall’. Embed your social wall at ANY size on ANY website.**
+**Miappi is a social media enhancement platform. Use Miappi to unite all your social media accounts into an awesome ‘social magazine’. Embed your
+magazine at ANY size on ANY website.**
 
-**_NEW._** _Now you can also display your Miappi profile at live events. Loads of unique
-new features on the Events page of your dashboard._
+**_NEW._** _Now you can also display your Miappi profile at live events. Loads of unique new features on the Events page of your dashboard._
 
 Here’s what you can include on your social wall:
 
-1. Your own social media feeds from Facebook, Twitter, YouTube, Instagram, SoundCloud, Tumblr and RSS
-2. Third party content from ANY supported social media feed that's public. That means you can amplify your own voice with great content cherry-picked from other brands, celebrities or people posting to a social network.
+1. Your own social media feeds from Facebook, Twitter, YouTube, Instagram, SoundCloud, Tumblr and RSS 
+2. Third party content from ANY supported social media feed that's public. That means you can amplify your own voice with great content cherry-picked from other brands, celebrities or people posting to a social network. 
 3. User generated content (UGC) conversations via hashtags. We support hashtag conversations from Facebook, Twitter and Instagram.
 
 Don't cannibalize your own traffic by sending visitors off to the social networks via those cute little icons on your website. Once they've gone they may not come back!
 
-With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your
-website!) so your audience engages with more of your social content without having to leave your site to visit the social networks. 
+With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your website!) so your audience engages with more of your social content without having to leave your site to visit the social networks. 
 
-**IMPORTANT Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=business) and sign-up to one of our three plans (Standard, Professional or Enterprise). Pro and Enterprise are great but Standard (FREE) is pretty special too and should cover most small business requirements.**
+**IMPORTANT Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=business) and sign-up to one of our three plans (Starter, Standard, Professional or Enterprise).**
 
 == Installation ==
 
