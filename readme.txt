@@ -25,7 +25,7 @@ Don't cannibalize your own traffic by sending visitors off to the social network
 
 With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your website!) so your audience engages with more of your social content without having to leave your site to visit the social networks. 
 
-**IMPORTANT Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=business) and sign-up to one of our three plans (Starter, Standard, Professional or Enterprise).**
+**IMPORTANT Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=business) and sign-up to one of our four plans (Starter, Standard, Professional or Enterprise).**
 
 == Installation ==
 
