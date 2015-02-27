@@ -6,7 +6,7 @@ Tested up to: 4.1
 Stable tag: 0.2
 License: GPLv2
 
-Show all your Social feeds and hashtag content in one widget.
+Show social media feeds and hashtag content in one widget.
 
 == Description ==
 
@@ -17,9 +17,9 @@ magazine at ANY size on ANY website.**
 
 Here’s what you can include on your social wall:
 
-1. Your own social media feeds from Facebook, Twitter, YouTube, Instagram, SoundCloud, Tumblr and RSS 
+1. Social media feeds from Facebook, Twitter, YouTube, Instagram, SoundCloud and Tumblr.
 2. Third party content from ANY supported social media feed that's public. That means you can amplify your own voice with great content cherry-picked from other brands, celebrities or people posting to a social network. 
-3. User generated content (UGC) conversations via hashtags. We support hashtag conversations from Facebook, Twitter and Instagram.
+3. User generated content (UGC) conversations via hashtags. We support hashtag conversations from Twitter, Instagram, Vine & YouTube.
 
 Don't cannibalize your own traffic by sending visitors off to the social networks via those cute little icons on your website. Once they've gone they may not come back!
 
@@ -68,7 +68,7 @@ The Miappi WordPress plugin unites all of your social media and #tags into one u
 
 = What can I use Miappi for? =
 
-Show feeds from Facebook, Twitter, Instagram, YouTube, Tumblr and SoundCloud. You can also include RSS feeds and #tags content from Twitter, Facebook and Instagram. Your Miappi profile can then be embedded in your WordPress website to give your visitors an immediate and clear view of everything you are saying on social media. 
+Show feeds from Facebook, Twitter, Instagram, YouTube, Tumblr and SoundCloud. You can also include RSS feeds and #tags content from Twitter, Instagram, Vine and YouTube. Your Miappi profile can then be embedded in your WordPress website to give your visitors an immediate and clear view of everything you are saying on social media. 
 
 = How do I start using Miappi? =
 
