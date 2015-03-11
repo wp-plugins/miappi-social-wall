@@ -1,6 +1,6 @@
 === Miappi: Social Media Wall ===
 Contributors: saf33r, Toby_Britton
-Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, 
+Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, social media magazine, social magazine, vine, tumblr,
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 0.2
