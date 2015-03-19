@@ -76,7 +76,7 @@ You'll need to sign up at [Miappi](http://dashboard.miappi.com/register?source=w
 
 = Help, I'm having a problem! =
 
-Please send all questions to support{at}miappi.com
+Please send all questions to support@miappi.com
 
 == Screenshots ==
 
