@@ -10,10 +10,9 @@ Show social media feeds and hashtag content in one widget.
 
 == Description ==
 
-**Miappi is a social media enhancement platform. Use Miappi to unite all your social media accounts into an awesome ‘social magazine’. Embed your
-magazine at ANY size on ANY website.**
+**Miappi is a social media enhancement platform. Use Miappi to unite all your social media accounts into an awesome 'social wall'.**
 
-**_NEW._** _Now you can also display your Miappi profile at live events. Loads of unique new features on the Events page of your dashboard._
+Display your social wall on screens of any size - from smartphones to websites to cinema screens!
 
 Here’s what you can include on your social wall:
 
@@ -25,7 +24,7 @@ Don't cannibalize your own traffic by sending visitors off to the social network
 
 With Miappi you have every post, tweet, image, video and #tag campaign in one place (on your website!) so your audience engages with more of your social content without having to leave your site to visit the social networks. 
 
-**IMPORTANT Before downloading this plugin visit [Miappi](http://dashboard.miappi.com/register?source=wordpress) and sign-up to one of our plans.**
+**IMPORTANT Before downloading this plugin [register with Miappi](http://dashboard.miappi.com/register?source=wordpress) and sign-up to one of our plans. The Wordpress plan is $49 per year. You can see all of our service plans on [Miappi.com](http://miappi.com/price-plans/)**
 
 == Installation ==
 
