@@ -3,7 +3,7 @@ Contributors: saf33r, Toby_Britton
 Tags: Miappi, Twitter, Facebook, Youtube, Soundcloud, Instagram, Social Networks, Social Media, Social Media Aggregator, Social Media Wall, social wall, social media magazine, social magazine, vine, tumblr,
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2
 
 Show social media feeds and hashtag content in one widget.
@@ -91,6 +91,9 @@ Please send all questions to support@miappi.com
 
 = 0.2 =
 * Show help message after activating plugin
+
+= 0.3 =
+* Support https
 
 == Upgrade Notice ==
 

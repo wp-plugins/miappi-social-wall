@@ -3,7 +3,7 @@
 Plugin Name: Miappi Social Wall
 Plugin URI: http://business.miappi.com/
 Description: Show all your Social feeds and hashtag content in one widget
-Version: 0.2
+Version: 0.3
 Author: Miappi Ltd
 Author URI: http://business.miappi.com/
 */
