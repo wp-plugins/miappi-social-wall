@@ -43,7 +43,7 @@ class Miappi_Embed_View {
 					var miappi = document.createElement('script');
 					miappi.type = 'text/javascript';
 					miappi.async = true;
-					miappi.src = 'http://miappi.com/embed.js';
+					miappi.src = '//miappi.com/embed.js';
 					var script = document.getElementsByTagName('script')[0];
 					script.parentNode.insertBefore(miappi,script);
 				})();
